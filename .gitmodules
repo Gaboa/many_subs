@@ -1,0 +1,3 @@
+[submodule "CORE_utils"]
+	path = CORE_utils
+	url = https://github.com/Gaboa/CORE_utils.git
