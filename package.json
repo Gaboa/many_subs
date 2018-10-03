@@ -1,0 +1,23 @@
+{
+  "name": "many_subs",
+  "version": "1.0.0",
+  "description": "many_subs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "poi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaboa/many_subs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaboa/many_subs/issues"
+  },
+  "homepage": "https://github.com/Gaboa/many_subs#readme",
+  "devDependencies": {
+    "poi": "^10.2.10"
+  }
+}
