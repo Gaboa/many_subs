@@ -1,3 +1,6 @@
 [submodule "CORE_utils"]
 	path = CORE_utils
 	url = https://github.com/Gaboa/CORE_utils.git
+[submodule "CORE_game"]
+	path = CORE_game
+	url = https://github.com/Gaboa/CORE_game.git
